@@ -1,4 +1,4 @@
-Inter and Intraobserver Agreement of Shoulder Fractures Before and After the Exposure to AO Classification with a cognitive schemata
+# Inter and Intraobserver Agreement of Shoulder Fractures Before and After the Exposure to AO Classification with a cognitive schemata**
 
 
 Anderson Reus Trevisol
@@ -7,7 +7,7 @@ Gabriel El-Kouba
 Ana Paula Bonilauri Ferreira
 Ricardo Pietrobon
 
-Introduction
+## Introduction
 
 
 
@@ -16,30 +16,27 @@ Introduction
 The objective of this study was to investigate the intraobserver and interobserver reliability of Neer classification system for shoulder fractures with a cognitive schemata.
 
 
-Methods
+## Methods
 
-IRB
+### Institutional Review Board
 
-We obtained approval from the Research Ethics Committee of São José Municipal Hospital  prior to the initiation of this project.  All study participants provided informed consent prior to enrollment in the study.
+We obtained approval from the Research Ethics Committee of the São José Municipal Hospital prior to the initiation of this project (protocol number 239.511) All participants were provided with informed consent prior to enrollment in the study.
 
-Subjects
+### Participants
+A total of 15 orthopedic residents participated in this study, 5 were first-year, 6 were second-year, and 4 were third-year residents. Their average age was <!-- number -->, all of them being males.
 
- Participants:
+### Image selection
+Two second-year residents that were not enrolled directly with the study and an orthopedic surgeon, specialist in membro superior selected 20 images containing fractures with a wide pattern variation chosen to cover the full spectrum of the Neer classification for humerus fractures. As imagens eram na incidência ântero-posterior e perfil. As imagens foram obtidas de arquivos dos Hospital São Municipal São José (Joinville – SC). Qualquer sinal de identificação de pacientes foi removido. Imagens radiográficas mal posicionadas que poderiam gerar problemas na interpretação foram excluídas. Imagens de baixa qualidade ou com artefatos ou outros defeitos técnicos também foram excluídas.
 
-R1
-R2
-R3 
- Images
- 
-Image selection:
+### Neer Classification
+O úmero proximal é dividido em 4 partes: cabeça, diáfise, tubérculo maior e tubérculo menor. É considerado desvio quando o segmento desloca-se mais de 1 cm (0,5 cm para o tubérculo maior) ou angulação maior do que 45º. As fraturas em uma parte são aquelas com pouco ou nenhum desvio, independentemente do número de traços de fratura; as fraturas em duas partes apresentam desvio de apenas uma parte (colocirúrgico, coloanatômico, tubérculomaior ou tubérculomenor); as em três partes são fraturas da diáfise com um dos tubérculos, separados da cabeça; e as fraturas em quatro partes apresentam dissociação entre as quatro partes anatômicas do úmero proximal, alta incidência de necrose avascular (@neerii1970displaced). [http://radiopaedia.org/articles/proximal-humeral-fracture-classification-neer]
 
-20 images, with fracture pattern variation.
- Procedures
+### Situated schemata extraction using Cognitive Task Analysis
 
-1a. Avaliação: present a collection of 20 images. Each participant independently classifies the images according to the AO Classification. Afterwards, the answers are collected.
-2a. Avaliação: repeat the presentation of the same 20 images in 30 days.
-Intervenção: nos próximos 30 dias, os residentes receberão semanalmente 20 (?) exercícios relacionados à classificação de Neer, baseados no esquema cognitivo do expert.
-3a Avaliação: após os 30 dias repeat the presentation of the same 20 images 
+### Study logistics and procedures
+Cada residente independentemente classificou as 20 imagens, de acordo com a Classificação de Neer, na Plataforma Edx. Os residentes podiam consultar na internet o sistema de classificação de Neer. Porém, não podiam conversar entre eles. Os autores do estudo não participaram como observadores.
+Após 30 dias, cada residente independentemente classificou novamente as 20 imagens em uma ordem alterada. 
+Nas quatro semanas seguintes os residentes completaram 20 exercícios em cada semana, os quais eram liberados semanalmente na Plataforma Edx. Os exercícios eram relacionados ao diagnóstico, biomecânica e tratamento de fraturas de úmero e foram criados à partir de um esquema cognitivo obtido de um expert em ortopedia, especialista em membro superior. Passado essas 4 semanas de treinamento, os residentes novamente reclassificaram as 20 imagens que foram inseridas na Plataforma Edx.
 
 
 Medidas:
