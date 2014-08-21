@@ -1,4 +1,4 @@
-# Inter and Intraobserver Agreement of Shoulder Fractures Before and After the Exposure to AO Classification with a cognitive schemata**
+# Inter and Intraobserver Agreement of Shoulder Fractures Before and After the Exposure to AO Classification with a cognitive schemata
 
 
 Anderson Reus Trevisol
