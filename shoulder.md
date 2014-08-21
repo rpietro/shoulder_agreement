@@ -23,7 +23,7 @@ The objective of this study was to investigate the intraobserver and interobserv
 We obtained approval from the Research Ethics Committee of the São José Municipal Hospital prior to the initiation of this project (protocol number 239.511) All participants were provided with informed consent prior to enrollment in the study.
 
 ### Participants
-A total of 15 orthopedic residents participated in this study, 5 were first-year, 6 were second-year, and 4 were third-year residents. Their average age was <!-- number -->, all of them being males.
+A total of 15 orthopedic residents participated in this study, 5 were first-year, 6 were second-year, and 4 were third-year residents. Their average age was 28, all of them being males.
 
 ### Image selection
 Two second-year residents that were not enrolled directly with the study and an orthopedic surgeon, specialist in membro superior selected 20 images containing fractures with a wide pattern variation chosen to cover the full spectrum of the Neer classification for humerus fractures. As imagens eram na incidência ântero-posterior e perfil. As imagens foram obtidas de arquivos dos Hospital São Municipal São José (Joinville – SC). Qualquer sinal de identificação de pacientes foi removido. Imagens radiográficas mal posicionadas que poderiam gerar problemas na interpretação foram excluídas. Imagens de baixa qualidade ou com artefatos ou outros defeitos técnicos também foram excluídas.
