@@ -39,34 +39,34 @@ Após 30 dias, cada residente independentemente classificou novamente as 20 imag
 Nas quatro semanas seguintes os residentes completaram 20 exercícios em cada semana, os quais eram liberados semanalmente na Plataforma Edx. Os exercícios eram relacionados ao diagnóstico, biomecânica e tratamento de fraturas de úmero e foram criados à partir de um esquema cognitivo obtido de um expert em ortopedia, especialista em membro superior. Passado essas 4 semanas de treinamento, os residentes novamente reclassificaram as 20 imagens que foram inseridas na Plataforma Edx.
 
 
-Medidas:
+### Medidas:
 inter-observer reliability
 intra-observer reliability
 degree of improvement in inter-observer reliability after training
  
    
- Statistical Analysis
+### Statistical Analysis
 
-Results
+## Results
 
-Discussion
+## Discussion
 http://goo.gl/NwMNN
 http://goo.gl/17QP
 
-Uniqueness and summary of main findings
+### Uniqueness and summary of main findings
 
 
-Discussion of the each of the main findings
+### Discussion of the each of the main findings
 
 Authors agreeing and discussion on mechanisms underlying the finding
 Authors disagreeing with findings and reasons for disagreement
 
 
-Study limitations
+### Study limitations
 
 
 
-Conclusions
+### Conclusions
 
 First, provide readers with a description of future studies that should be conducted to further expand the field.
 Point readers in relation to how the information presented in this manuscript might make a difference in practice.  In other words, how can the original information you have just generated be transformed into knowledge
@@ -75,5 +75,5 @@ Point readers in relation to how the information presented in this manuscript mi
 Some orthopedists have expressed concern, espe- cially in training programs, that more effort is spent trying to memorize classification systems for a num-ber of fractures, rather than truly understanding the fracture mechanics or the factors that have signifi- cant bearing on prognosis or treatment.  (The Journal of Hand Surgery 1996;21 A:574-582. Dennis J. Andersen,- ) do Olecranon Paper
 
 
-References
+## References
 (autores, título, revista, ano, mês, número, volume, página)
