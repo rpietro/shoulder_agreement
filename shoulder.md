@@ -1,55 +1,108 @@
-# Inter and Intraobserver Agreement of Shoulder Fractures Before and After the Exposure to AO Classification with a cognitive schemata
+# Concordância Inter e Intraobservador de Fraturas de Úmero Antes e Após a Exposição à Classificação AO com um Esquema Cognitivo 
 
 
 Anderson Reus Trevisol
 Bárbara Mendes Boppré
+Gustavo ou Renan
 Gabriel El-Kouba
 Ana Paula Bonilauri Ferreira
 Ricardo Pietrobon
 
-## Introduction
+## Resumo
+
+## Introdução
+
+As fraturas de úmero são o terceiro tipo mais comum de fraturas em pessoas acima de 65 anos, depois de fraturas do rádio distal e fêmur proximal (court2006epidemiology).
+Apesar de termos evoluído nas últimas décadas na correlação da cognição e a educação médica, ainda existem lacunas do conhecimento a serem respondidas em relação à essa intersecção.
+
+Esta baixa concordância pode estar relacionada à não interseção da cognição e o diagnóstico médico.
 
 
 
+Although the AO classification is considered one of the main pillars behind the education of orthopedic residents, observer agreement has been reported to be poor in a number of previous publications (@andersen1996classification; @belloti2008distal; @kural2010evaluation; @kucuk2013reliability). Although well established, these findings are disconcerting as classifications are supposed to guide treatment indications, and a substantion lack of observer agreement might mean that a large percentage treatment variability might be explained by a simple lack of understanding of the fracture radiological appearance, biomechanics and, as a consequence, treatment. Despite our knowledge of the cognition behind medical diagnosis having substantially improved over the past couple decades, however, to our knowledge these fields have remained largely without an intersection.
+
+The accurate usage of a scale can be evaluated determining how reproducible are the answers from different observers at different times (@garbuz2002classification). According to this criteria, although AO scale is widely accepted, several studies have found low agreement rates. (@belloti2008distal; @kural2010evaluation; @kucuk2013reliability). 
+These low agreement rates may be reflex of the use of wrong cognitive schema or wrong heuristics.
+
+Previous studies have found that physicians tend to use heuristics instead of evidence based instruments such as scales (@ferreira2010clinical) in their daily practice. Since medical education is based on several schemas where knowledge is built for future use (@regehr1996issues), learning a coherent cognitive schema that avoids cognitive overload may facilitate the understanding of scales (@ruiter2012achieve; @ferreira2010clinical), thus enhancing its agreement rates and consequently its accurate daily usage. 
 
 
-The objective of this study was to investigate the intraobserver and interobserver reliability of Neer classification system for shoulder fractures with a cognitive schemata.
+O objetivo deste estudo foi investigar a confiabilidade intra e interobservador da classificação de Neer para fraturas de úmero com um esquema cognitivo.
 
 
-## Methods
+## Métodos
 
-### Institutional Review Board
+### Comitê de Ética
 
-We obtained approval from the Research Ethics Committee of the São José Municipal Hospital prior to the initiation of this project (protocol number 239.511) All participants were provided with informed consent prior to enrollment in the study.
+Este estudo foi aprovado pelo comitê de ética em pesquisa do Hospital Municipal São José (Joinville-SC) previamente ao início deste projeto (número do protocolo 239.511). Todos os participantes assinaram o termo de consentimento previamente à participação no estudo. 
 
-### Participants
-A total of 15 orthopedic residents participated in this study, 5 were first-year, 6 were second-year, and 4 were third-year residents. Their average age was 28, all of them being males.
+### Participantes
+
+Um total de 15 residentes de ortopedia participaram deste estudo, 5 eram do primeiro ano, 6 do segundo ano e 4 do terceiro ano. A média de idade era 28 anos e todos eram do gênero masculino.
 
 ### Image selection
-Two second-year residents that were not enrolled directly with the study and an orthopedic surgeon, specialist in membro superior selected 20 images containing fractures with a wide pattern variation chosen to cover the full spectrum of the Neer classification for humerus fractures. As imagens eram na incidência ântero-posterior e perfil. As imagens foram obtidas de arquivos dos Hospital São Municipal São José (Joinville – SC). Qualquer sinal de identificação de pacientes foi removido. Imagens radiográficas mal posicionadas que poderiam gerar problemas na interpretação foram excluídas. Imagens de baixa qualidade ou com artefatos ou outros defeitos técnicos também foram excluídas.
+
+Two second-year residents that were not enrolled directly with the study and an orthopedic surgeon, especialista in membro superior selected 20 images containing fractures with a wide pattern variation chosen to cover the full spectrum of the Neer classification for humerus fractures. As imagens eram na incidência ântero-posterior e perfil. As imagens foram obtidas de arquivos dos Hospital São Municipal São José (Joinville – SC). Qualquer sinal de identificação de pacientes foi removido. Imagens radiográficas mal posicionadas que poderiam gerar problemas na interpretação foram excluídas. Imagens de baixa qualidade ou com artefatos ou outros defeitos técnicos também foram excluídas.
 
 ### Neer Classification
+
 O úmero proximal é dividido em 4 partes: cabeça, diáfise, tubérculo maior e tubérculo menor. É considerado desvio quando o segmento desloca-se mais de 1 cm (0,5 cm para o tubérculo maior) ou angulação maior do que 45º. As fraturas em uma parte são aquelas com pouco ou nenhum desvio, independentemente do número de traços de fratura; as fraturas em duas partes apresentam desvio de apenas uma parte (colo cirúrgico, colo anatômico, tubérculo maior ou tubérculo menor); as em três partes são fraturas da diáfise com um dos tubérculos, separados da cabeça; e as fraturas em quatro partes apresentam dissociação entre as quatro partes anatômicas do úmero proximal e alta incidência de necrose avascular (@neerii1970displaced). [http://radiopaedia.org/articles/proximal-humeral-fracture-classification-neer]
 
 ### Situated schemata extraction using Cognitive Task Analysis
 
-### Study logistics and procedures
-Cada residente independentemente classificou as 20 imagens, de acordo com a Classificação de Neer, na Plataforma Edx. Os residentes podiam consultar na internet o sistema de classificação de Neer. Porém, não podiam conversar entre eles. Os autores do estudo não participaram como observadores.
-Após 30 dias, cada residente independentemente classificou novamente as 20 imagens em uma ordem alterada. 
-Nas quatro semanas seguintes os residentes completaram 20 exercícios em cada semana, os quais eram liberados semanalmente na Plataforma Edx. Os exercícios eram relacionados ao diagnóstico, biomecânica e tratamento de fraturas de úmero e foram criados à partir de um esquema cognitivo obtido de um expert em ortopedia, especialista em membro superior. Passado essas 4 semanas de treinamento, os residentes novamente reclassificaram as 20 imagens que foram inseridas na Plataforma Edx.
+For the purposes of our paper, we define a situated schema as the collection of concepts and situations (e.g., narratives) that an expert hand and upper extremity surgeon relates to each classification category. In order to extract the situated schema from our expert hand and upper extremity surgeon (GE), we used the following sequence. 
+
+First, the Neer classification was presented to the hand and upper extremity surgery expert in an electronic format combining text and graphics for each classification category. Second, we asked the surgeon to "think aloud" about what they thought when finding a case in their daily practice. After an initial description, we specifically asked the expert to discuss any diagnostic, biomechanical or related therapeutic decision if it had not yet been previously mentioned. We also encouraged the expert to provide any narratives that might occur to him while thinking aloud about each classification category. The entire process was recorded in a video.
+
+Second, the video was analyzed and a graph constituted by nodes and edges was built using [Graphviz](http://www.graphviz.org/). Each node represented either a concept or a situation, while edges connected relationships among diagnostic, biomechanical and therapeutic nodes.
+
+### Procedimentos e Logística do Estudo
+
+#### Avaliação Inicial
+
+Na avaliação inicial, todos os residentes independentemente classificaram as 20 imagens de acordo com a Classificação de Neer. Todos os participantes simultaneamente, alocados na mesma sala, foram instruídos a não olhar as respostas dos outros ou discutir os casos clínicos. As imagens a serem classificadas estavam armazenadas na Plataforma online Edx [http://code.edx.org/]. As respostas eram armazenadas na própria plataforma online. Os residentes podiam consultar na internet o sistema de classificação de Neer. Os autores do estudo não participaram como sujeitos do estudo.
+
+#### Avaliação em 30 dias
+
+Após 30 dias, cada residente independentemente classificou novamente as 20 imagens em uma ordem alterada na Plataforma Edx. Todos os outros procedimentos foram executados exatamente como descrito na sessão da Aavaliação Inicial.
 
 
-### Medidas:
-inter-observer reliability
-intra-observer reliability
-degree of improvement in inter-observer reliability after training
+#### Intervenção
+
+The educational intervention was constituted by weekly sessions where participants completed 20 exercises related to the diagnosis, biomechanics and therapeutic planning of shoulder fractures. Os residentes, após terem respondido cada exercício, eram apresentados à resposta correta, juntamente com uma explicação justificando tal resposta. Os exercícios estavam organizados, na Plataforma online Edx, em “blocos” de 20 perguntas cada, ou seja, foram criados 4 blocos correspondentes as quatro semanas de intervenção. Os blocos de perguntas foram programados para serem liberados semanalmente, isto é, os residentes tinham acesso somente a um bloco de perguntas por semana. The full spectrum described by the Neer classification was covered based on cognitive schema from our expert hand and upper extremity surgeon (GE) as described in the previous session - Situated schemata extraction using Cognitive Task Analysis.
+
+
+#### Pós-Intervenção, Avaliação em 60 dias
+
+After the 4-week intervention period, all participants classified the same 20 images following the same protocol.
+
+
+### Medidas avaliadas
+
+Intra-observer agreement was measured by comparing ratings by the same participant between baseline and the thirty 30-day assessment. Baseline inter-observer agreement was measured at the 30-day assessment. The pre-post intervention evaluation was conducted by comparing the 30-day pre-intervention assessment with the 60-day post-intervention assessment.
+
+
+### Análises dos dados
+
+All data were extracted directly from [MySQL](http://www.mysql.com/) and [MongoDB](http://www.mongodb.org/) databases connected to the [Open edX](http://code.edx.org/) platforms. Data sets were then merged, also undergoing an exploratory graphical analysis to verify distributions, percentages, means and frequencies/percentages as well as rates of missing data. 
  
-   
-### Statistical Analysis
+ 
 
-## Results
+## Resultados
 
-## Discussion
+### Inter-observer reliability
+
+
+### Intra-observer reliability
+
+
+### Degree of improvement in inter-observer reliability after training
+
+
+## Discussão
+
+Até nosso atual conhecimento, este é o primeiro estudo que utilizou um esuqema cognitivo para avaliar o grau de concordância da classificação de Neer em fraturas de úmero. Nossos achados foram... 
+
 http://goo.gl/NwMNN
 http://goo.gl/17QP
 
@@ -64,6 +117,7 @@ Authors disagreeing with findings and reasons for disagreement
 
 ### Study limitations
 
+Apesar de ser um estudo único na correlação entre a inserção de um esquema cognitivo e a concordância intra e interobservadores, nosso estuod paresenta limitações. Primeiro, nossa análise foi restrita a um grupo de residentes, e diferentes grupos poderiam apresentar uma variação na concordância. Segundo, na seleção das imagens para o estudo de concordância, nós escolhemos selecionar um amplo espectro de fraturas que muitas vezes não representam a prevalência atual destas fraturas na prática.
 
 
 ### Conclusions
@@ -75,5 +129,5 @@ Point readers in relation to how the information presented in this manuscript mi
 Some orthopedists have expressed concern, espe- cially in training programs, that more effort is spent trying to memorize classification systems for a num-ber of fractures, rather than truly understanding the fracture mechanics or the factors that have signifi- cant bearing on prognosis or treatment.  (The Journal of Hand Surgery 1996;21 A:574-582. Dennis J. Andersen,- ) do Olecranon Paper
 
 
-## References
+## Referências
 (autores, título, revista, ano, mês, número, volume, página)
