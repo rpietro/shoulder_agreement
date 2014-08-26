@@ -12,20 +12,6 @@ Ricardo Pietrobon
 
 ## Introdução
 
-As fraturas de úmero são o terceiro tipo mais comum de fraturas em pessoas acima de 65 anos, depois de fraturas do rádio distal e fêmur proximal (court2006epidemiology).
-Apesar de termos evoluído nas últimas décadas na correlação da cognição e a educação médica, ainda existem lacunas do conhecimento a serem respondidas em relação à essa intersecção.
-
-Esta baixa concordância pode estar relacionada à não interseção da cognição e o diagnóstico médico.
-
-
-
-Although the AO classification is considered one of the main pillars behind the education of orthopedic residents, observer agreement has been reported to be poor in a number of previous publications (@andersen1996classification; @belloti2008distal; @kural2010evaluation; @kucuk2013reliability). Although well established, these findings are disconcerting as classifications are supposed to guide treatment indications, and a substantion lack of observer agreement might mean that a large percentage treatment variability might be explained by a simple lack of understanding of the fracture radiological appearance, biomechanics and, as a consequence, treatment. Despite our knowledge of the cognition behind medical diagnosis having substantially improved over the past couple decades, however, to our knowledge these fields have remained largely without an intersection.
-
-The accurate usage of a scale can be evaluated determining how reproducible are the answers from different observers at different times (@garbuz2002classification). According to this criteria, although AO scale is widely accepted, several studies have found low agreement rates. (@belloti2008distal; @kural2010evaluation; @kucuk2013reliability). 
-These low agreement rates may be reflex of the use of wrong cognitive schema or wrong heuristics.
-
-Previous studies have found that physicians tend to use heuristics instead of evidence based instruments such as scales (@ferreira2010clinical) in their daily practice. Since medical education is based on several schemas where knowledge is built for future use (@regehr1996issues), learning a coherent cognitive schema that avoids cognitive overload may facilitate the understanding of scales (@ruiter2012achieve; @ferreira2010clinical), thus enhancing its agreement rates and consequently its accurate daily usage. 
-
 
 O objetivo deste estudo foi investigar a confiabilidade intra e interobservador da classificação de Neer para fraturas de úmero com um esquema cognitivo.
 
