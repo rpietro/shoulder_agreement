@@ -46,7 +46,7 @@ Second, the video was analyzed and a graph constituted by nodes and edges was bu
 
 #### Avaliação Inicial
 
-Na avaliação inicial, todos os residentes independentemente classificaram as 20 imagens de acordo com a Classificação de Neer. Todos os participantes simultaneamente, alocados na mesma sala, foram instruídos a não olhar as respostas dos outros ou discutir os casos clínicos. As imagens a serem classificadas estavam armazenadas na Plataforma online Edx [http://code.edx.org/]. As respostas eram armazenadas na própria plataforma online. Os residentes podiam consultar na internet o sistema de classificação de Neer. Os autores do estudo não participaram como sujeitos do estudo.
+Na avaliação inicial, todos os residentes independentemente classificaram as 20 imagens de acordo com a Classificação de Neer. Todos os participantes simultaneamente, alocados na mesma sala, foram instruídos a não olhar as respostas dos outros ou discutir os casos clínicos. As imagens a serem classificadas estavam armazenadas na Plataforma online Edx [http://code.edx.org/]. As respostas eram armazenadas na própria plataforma online. Os residentes podiam consultar na internet o sistema de classificação de Neer. Não foi estipulado um tempo limite para classificar as imagens. Os autores do estudo não participaram como sujeitos do estudo.
 
 #### Avaliação em 30 dias
 
