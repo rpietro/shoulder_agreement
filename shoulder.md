@@ -12,10 +12,13 @@ Ricardo Pietrobon
 
 ## Introdução
 
-As fraturas de úmero são o terceiro tipo mais comum de fraturas em pessoas acima de 65 anos, depois de fraturas do rádio distal e fêmur proximal (court2006epidemiology). Os diversos sistemas de classificação são propostos para melhorar a descrição das fraturas, baseadas na sua morfologia, no seu comportamento biológico e mecânico, e orientar diretrizes terapêuticas. A classificação de Neer é amplamente utilizada na prática clínica e em pesquisa (Brorson2002I), porém, a literatura sugere existir uma baixa concordância entre observadores utilizando este sistema de classificação (@siebenrock1993reproducibility; @sidor1993neer; @bernstein1996evaluation; @sjoden1997poor; @brorson2002improved; @shrader2005understanding; @brorson2009diagnosing). Apesar de termos evoluído nas últimas décadas na correlação da cognição e diagnóstico médico, ainda existem lacunas do conhecimento a serem respondidas em relação à essa intersecção.
+As fraturas de úmero são o terceiro tipo mais comum de fraturas em pessoas acima de 65 anos, depois de fraturas do rádio distal e fêmur proximal (court2006epidemiology). Os diversos sistemas de classificação de fraturas ortopédicas são propostos para melhorar a sua descrição, baseados na sua morfologia, no seu comportamento biológico e mecânico, e para orientar diretrizes terapêuticas. Apesar de termos evoluído nas últimas décadas na correlação da cognição e diagnóstico médico, ainda existem lacunas do conhecimento a serem respondidas em relação à essa intersecção no que diz respeito às classificações ortopédicas.
 
+A classificação de Neer é amplamente utilizada na prática clínica e em pesquisa (@brorson2002improved), porém, a literatura sugere existir uma baixa concordância entre observadores utilizando este sistema de classificação (@siebenrock1993reproducibility; @sidor1993neer; @bernstein1996evaluation; @sjoden1997poor; @brorson2002improved; @shrader2005understanding; @brorson2009diagnosing). Este baixo índice de concordância pode ter associação ao uso inadequado do esquema cognitivo.
+O conhecimento prévio construído em um “esquema” facilita muito o conhecimento contextual se a nova informação é assimilada no esquema (@ruiter2012achieve). Assim sendo, a interpretação das escalas deveria estar associada a um esquema cognitivo coerente (@ruiter2012achieve; @ferreira2010clinical), o que poderia contribuirpara o aumento da concordância entre observadores.
 
 O objetivo deste estudo foi investigar a confiabilidade intra e interobservador da classificação de Neer para fraturas de úmero com um esquema cognitivo.
+
 
 
 ## Métodos
