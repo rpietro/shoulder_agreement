@@ -132,6 +132,11 @@ reconstruction > 2D CT scan with the kappa values being 0.14, 0.09, 0.07 respect
 among specialized upper extremity surgeons, overall all imaging modalities yielded low inter-observer
 agreement.
 
+@gumina2011comparison
+
+Inter-observer reliability was K = 0.77 , while intra-observer reproducibility was K = 0.68 (examiner I) and K = 0.63 (examiner II).
+After 6 years, the reproducibility of the neer classification was low for both examiners and not significantly dependent of the level of expertise
+
 
 
 
