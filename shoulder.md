@@ -106,7 +106,7 @@ Em conclusão, nós não recomendamos que intervenções educacionais curtas e d
 
 
 
-<!-- Ana, pros artigos abaixo precisava saber qual classificação -->
+<!-- Ana, pros artigos abaixo precisava saber qual classificação --> <!-- Todos do Neer. -->
 
 @bernstein1996evaluation
 
