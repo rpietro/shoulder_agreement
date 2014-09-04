@@ -93,6 +93,54 @@ All data were extracted directly from [MySQL](http://www.mysql.com/) and [MongoD
 
 ## Discussão
 
+@bernstein1996evaluation
+
+Substantial intraobserver reliability (K = 0.64) and moderate interobserver reproducibility (K = 0.52) were noted when the fractures in the present study were classified on the basis of radiographs alone. 
+
+@brien1995neer
+
+For the total group evaluated, percentage agreement between pairs of observers ranges from 57% to 71%, with the corresponding kappa values ranging from 0.37 to 0.75 (Table 2). Within the first subgroup of tuberosity
+fractures (n = 18), the percentage agreement ranged from 44% to 83%, with corresponding kappa values from 0.24 to 0.77. In the second subgroup evaluated [neck fractures (n = 5)], the percentage agreement between pairs of
+observers ranged from 60% to 100%, with kappa values of 0.41 to 1.00.
+The results of the present study show only moderate agreement within observers for both the total number of patients studied and the tuberosity fracture group. In the group of neck fractures, however, the agreement
+was as good as could be expected, with the neck fracture segment being the most easy to identify
+
+@brorson2002low
+
+Twenty-four doctors (nine orthopaedic residents, six fellows and nine specialists) participated in the study and classified all cases. Mean kappa for agreement between all pairs of observers was 0.27 (95% CI 0.26–0.28). No clinically important difference between the mean kappa values of residents, fellows and specialists was detected. Inexperienced doctors tended to classify more
+fractures as displaced, but otherwise there were no differences between the three levels of experience.
+
+@brorson2002improved
+
+We found that two teaching sessions improved the overall mean kappa value from 0.27 (95% CI 0.23 to 0.31) to 0.62 (95% CI 0.57 to 0.67) for the Neer system. The improvement was particularly noticeable for the specialists in whom kappa increased from 0.30 (95% CI 0.23 to 0.37) to
+0.79 (95% CI 0.70 to 0.88).
+
+@brorson2012surgeons
+
+At both classification rounds mean kappa-values for inter-observer agreement 
+on Neer classification were 0.33 and 0.36.
+
+@brunner2009impact
+
+Interobserver agremment: According to group (I, II, III, IV) it showed moderate reliability with plain radiographs (κ = 0.48) and 2D CT scans (κ = 0.58), but improved to excellent after adding 3D volume rendering reconstructions (κ = 0.80).
+Intraobserver reliability: For group (I, II, III, IV) it was moderate with plain radiographs (κ = 0.58), good with CT scans (κ = 0.69), and excellent with 3D volume rendering reconstructions (κ = 0.88).
+
+@foroohar2011classification
+
+Agreement of classification across all modalities was only “ slight”. For classification: X-ray > 3D CT
+reconstruction > 2D CT scan with the kappa values being 0.14, 0.09, 0.07 respectively. Classification
+among specialized upper extremity surgeons, overall all imaging modalities yielded low inter-observer
+agreement.
+
+@gumina2011comparison
+
+Inter-observer reliability was K = 0.77 , while intra-observer reproducibility was K = 0.68 (examiner I) and K = 0.63 (examiner II).
+After 6 years, the reproducibility of the neer classification was low for both examiners and not significantly dependent of the level of expertise
+
+
+
+
+
 Até nosso atual conhecimento, este é o primeiro estudo que utilizou um esuqema cognitivo para avaliar o grau de concordância da classificação de Neer em fraturas de úmero. Nossos achados foram... 
 
 http://goo.gl/NwMNN
