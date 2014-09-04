@@ -93,9 +93,26 @@ All data were extracted directly from [MySQL](http://www.mysql.com/) and [MongoD
 
 ## Discussão
 
+
+Até onde sabemos, esse é o primeiro estudo avaliando uma intervenção na tentativa de melhorar o grau de concordância entre observadores para a classificação de Neer de fraturas do ombro. Nossos resultados indicaram uma concordância que sem manteve relativamente estável durante o estudo, não tendo sido modificada em função da intervenção. Também encontramos que o grau de concordância é melhorado quando (1) a classificação se faz simplesmente por partes ao invés de feita com detalhes de cada fratura e (2) quando o numero de partes é diminuido. 
+
+O baixo grau de concordância entre observadores nesse estudo concorda em grande parte com a literatura sobre classificações de fraturas ortopédicas <!-- ref -->. Essa baixa concordância se dá em grande parte pela complexidade das classificações, o que dá margem a interpretações diversas, especialmente por profissionais em treinamento e portanto com menos experiência. <!-- ref --> Apesar de que a intenção de se criar uma classificação que seja "completa" é louvável, a alta carga cognitiva exigida dos profissionais que a irão utilizar tende a fazer com que ela perca a sua praticidade. Esforços deveriam ser realizados portanto para a criação de escalas que sejam mais dinamicamente adaptadas a profissionais com diferentes graus de experiência na interpretação radiográfica. Por exemplo, profissionais que trabalhem em pronto socorros deveriam utilizar uma escala mais simplificada, enquanto sub-especialistas deveriam utilizar escalas mais detalhadas. O grau de detalhamento em cada uma destas subescalas seria definido através de estudos que identifiquem o grau de concordância obtida na prática clínica diária.
+
+Apesar de que a nossa intervenção ter sido baseada em mecanismos bem estabelecidos na literatura sobre schemas cognitivos <!-- ref -->, não houve uma melhora da concordância como nós havíamos hipotetizado. Causas para a não melhora provavelmente se devem ao baixo tempo de exposição em relação à intervenção <!-- ref -->, e também ao fato de que esta exposição não ocorreu em um contexto clínico mas sim em um ambiente educacional artificial. Resultados superiores talvez pudessem ter sido encontrados se a intervenção educacional pudesse ter ocorrido durante a prática clínica diária, especificamente no momento em que os participante estivessem atendendo pacientes com fraturas de ombro. 
+
+Apesar de o nosso artigo ser, até onde sabemos, o primeiro a conduzir uma intervenção na tentativa de melhorar o grau de concordância entre observadores, o nosso estudo tem limitações. Primeiro, a nossa intervenção utilizou um desenho pré-pós ao invés de um estudo randomizado. Na ausência de randomização, nós portanto não podemos fazer afirmações sobre relações causais entre a intervenção e a ausência de impacto sobre o grau de concordância. Estudos randomizados requerem no entanto amostras significativamente maiores, o que pode levar a barreiras logísticas em relação à sua execução. Segundo, esse estudo foi restrito a um grupo de participantes de uma única instituição, o que limita a sua generalizabilidade. Enquanto a participação de múltiplas instituições é sempre desejável, sociedades profissionais em ortopedia ainda não estão logisticamente organizadas para permitir estudos de maior escala, o que dificulta a sua realização. Por último, intervenções mais prolongadas e contextualizadas na prática diária teriam sido desejáveis, mas como nas limitações anteriores, a sua execução é limitada por fatores logísticos. 
+
+Em conclusão, nós não recomendamos que intervenções educacionais curtas e descontextualizadas da prática clínica sejam utilizadas no aprendizado de classificações complexas. No entanto, a simplificação de tais classificações deveria ser considerada, levando a uma personalização da escala a ser utilizada a grupos de profissionais com graus de experiência diferentes. No que diz respeito a estudos futuros, recomendamos a utilização de estudos randomizados que permitam investigações causais, assim como a contextualização e personalização das intervenções educacionais. 
+
+
+
+<!-- Ana, pros artigos abaixo precisava saber qual classificação -->
+
 @bernstein1996evaluation
 
+
 Substantial intraobserver reliability (K = 0.64) and moderate interobserver reproducibility (K = 0.52) were noted when the fractures in the present study were classified on the basis of radiographs alone. 
+
 
 @brien1995neer
 
