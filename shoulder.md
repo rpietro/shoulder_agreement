@@ -6,6 +6,8 @@ Anderson Reus Trevisol
 Bárbara Mendes Boppré
 Gustavo ou Renan
 Gabriel El-Kouba
+Bruno Melo
+Joao Ricardo Vissoci
 Ana Paula Bonilauri Ferreira
 Ricardo Pietrobon
 
