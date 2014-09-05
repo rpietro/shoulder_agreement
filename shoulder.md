@@ -78,23 +78,29 @@ Intra-observer agreement was measured by comparing ratings by the same participa
 
 All data were extracted directly from [MySQL](http://www.mysql.com/) and [MongoDB](http://www.mongodb.org/) databases connected to the [Open edX](http://code.edx.org/) platforms. Data sets were then merged, also undergoing an exploratory graphical analysis to verify distributions, percentages, means and frequencies/percentages as well as rates of missing data. 
  
+Apenas observadores que haviam completado um determinado grupo de observações (dia 1, dia 30 ou dia 60) foram considerados na análise. Porcentagens de concordância assim como valores de Kappa Fleiss foram reportados. Kappa Fleiss é uma medida de concordância para variáveis categóricas que leva em consideração a possível concordância ao acaso. @fleiss1973equivalence  Por fim, a comparação entre os valores de Kappa pré e pós intervenção (dias 30 e 60, respectivamente) foram estimadas através da computação de erros padrão e intervalos de confiança (95%) utilizando bootstrap. <!-- check with joao for reference -->
  
 
 ## Resultados
 
-### Inter-observer reliability
+### Resultados descritivos
+
+Quando todos os 9 observadores completando as 3 avaliações foram considerados, não houve nenhuma instância em que houvesse concordância completa entre todos. O mesmo ocorreu quando a avaliação se restringiu ao dias isolados 1 (15 observadores), 30 (11 observadores) e 60 (13 observadores). No entanto, a porcentagem de concordância entre os observadores foi aumentada quando a classificação foi simplificada para incorporar apenas o número de partes e com 1 grau de tolerância: 21.4% para o dia 1 (15 observadores), 40% para o dia 30 (11 observadores) e 45% para o dia 60 (13 observadores). 
+
+Em relação a porcentagem de concordância com o mesmo indivíduo entre os dias 1 e 30, a taxa foi de 28.5%, chegando a 65.7% quando um grau de tolerância foi adicionado. 
 
 
-### Intra-observer reliability
+### Valores de kappa
 
+Os valores de Kappa Fleiss foram de 0.302 (p < 0.001) para o estudo como um todo (9 observadores), 0.256 (p < 0.001) para o dia 1, 0.277  (p < 0.001) para o dia 30, 0.315  (p < 0.001) para o dia 60. A diferença entre os dias 30 (pré-intervenção) e 60 (pós-intervenção) não foi estatisticamente significativa. 
 
-### Degree of improvement in inter-observer reliability after training
+Quando a avaliação se restringiu ao número de partes, os valores de Kappa Fleiss chegaram a 0.279  (p < 0.001) para o grupo como um todo, 0.26  (p < 0.001) para o dia 30 e 0.332 para o dia 60. A diferença entre os dias 30 (pré-intervenção) e 60 (pós-intervenção) não foi estatisticamente significativa. A concordância entre os mesmos indivíduos, comparando os dias 1 e 30, foi de 0.01 (p = 0.809)
 
 
 ## Discussão
 
 
-Até onde sabemos, esse é o primeiro estudo avaliando uma intervenção na tentativa de melhorar o grau de concordância entre observadores para a classificação de Neer de fraturas do ombro. Nossos resultados indicaram uma concordância que se manteve relativamente estável durante o estudo, não tendo sido modificada em função da intervenção. Também encontramos que o grau de concordância é melhorado quando (1) a classificação se faz simplesmente por partes ao invés de feita com detalhes de cada fratura e (2) quando o número de partes é diminuido. 
+Até onde sabemos, esse é o primeiro estudo avaliando uma intervenção na tentativa de melhorar o grau de concordância entre observadores para a classificação de Neer de fraturas do ombro. Nossos resultados indicaram uma concordância que se manteve relativamente estável durante o estudo, não tendo sido modificada em função da intervenção. Também encontramos que o grau de concordância é melhorado quando (1) a classificação se faz simplesmente por partes ao invés de feita com detalhes de cada fratura e (2) quando o número de partes é diminuido.
 
 O baixo grau de concordância entre observadores nesse estudo corrobora com artigos anteriores sobre classificações de fraturas ortopédicas (@siebenrock1993reproducibility; @sidor1993neer; @bernstein1996evaluation; @sjoden1997poor; @brorson2002improved; @shrader2005understanding; @brorson2009diagnosing). A complexidade das classificações pode conduzir à essa baixa concordância, levando à diversas interpretações, principalmente por médicos em treinamento e com menos experiência (@kristiansen1988neer; @foroohar2011classification). Apesar de que, a intenção de se criar uma classificação que seja "completa" é louvável, a sua praticidade pode ser disperdiçada em função da alta carga cognitiva exigida dos profissionais que a irão utilizar. A criação de escalas mais condizentes com diferentes níveis de experiência na interpretação radiográfica poderiam ser melhor aproveitadas.Ou seja, dependendo da área de atuação do profissional, escalas mais simplificadas ou mais complexas poderiam ser utilizadas. Por exemplo, médicos sub-especialistas utilizariam escalas mais detalhadas, enquanto médicos que trabalhem em pronto socorros utilizariam escalas mais simplificadas. O grau de detalhamento em cada uma destas escalas distintas seria determinado através de estudos que identifiquem o grau de concordância obtido na prática clínica diária.
 
@@ -108,7 +114,7 @@ Concluímos que intervenções educacionais curtas e descontextualizadas da prá
 
 <!-- Ana, pros artigos abaixo precisava saber qual classificação --> <!-- Todos do Neer. -->
 
-@bernstein1996evaluation
+<!-- @bernstein1996evaluation
 
 
 Substantial intraobserver reliability (K = 0.64) and moderate interobserver reproducibility (K = 0.52) were noted when the fractures in the present study were classified on the basis of radiographs alone. 
@@ -189,7 +195,7 @@ Some orthopedists have expressed concern, espe- cially in training programs, tha
 (autores, título, revista, ano, mês, número, volume, página)
 
 
----
+
 
 
 # update.packages()
@@ -213,49 +219,49 @@ require(boot)
 setwd("/Users/rpietro/articles/shoulder_agreement")
 
 shoulder_inter_all  <- read.csv("shoulder_inter_all.csv")
-shoulder_inter_all
+# shoulder_inter_all
 agree(shoulder_inter_all)     # Simple percentage agreement
 
 shoulder_inter_all_day1  <- read.csv("shoulder_inter_all_day1.csv")
-shoulder_inter_all_day1
+# shoulder_inter_all_day1
 agree(shoulder_inter_all_day1)     # Simple percentage agreement
 
 shoulder_inter_all_day30  <- read.csv("shoulder_inter_all_day30.csv")
-shoulder_inter_all_day30
+# shoulder_inter_all_day30
 agree(shoulder_inter_all_day30)     # Simple percentage agreement
 
 shoulder_inter_all_day60  <- read.csv("shoulder_inter_all_day60.csv")
-shoulder_inter_all_day60
+# shoulder_inter_all_day60
 agree(shoulder_inter_all_day60)     # Simple percentage agreement
 
 
 shoulder_inter_parts  <- read.csv("shoulder_inter_parts.csv")
-shoulder_inter_parts
+# shoulder_inter_parts
 agree(shoulder_inter_parts)     # Simple percentage agreement
 agree(shoulder_inter_parts,1)     # Simple percentage agreement
 
 
 shoulder_inter_parts_day1  <- read.csv("shoulder_inter_parts_day1.csv")
-shoulder_inter_parts_day1
+# shoulder_inter_parts_day1
 agree(shoulder_inter_parts_day1)     # Simple percentage agreement
 agree(shoulder_inter_parts_day1,1)     # Simple percentage agreement
 
 
 shoulder_inter_parts_day30  <- read.csv("shoulder_inter_parts_day30.csv")
-shoulder_inter_parts_day30
+# shoulder_inter_parts_day30
 agree(shoulder_inter_parts_day30)     # Simple percentage agreement
 agree(shoulder_inter_parts_day30,1)     # Simple percentage agreement
 
 
 shoulder_inter_parts_day60  <- read.csv("shoulder_inter_parts_day60.csv")
-shoulder_inter_parts_day60
+# shoulder_inter_parts_day60
 agree(shoulder_inter_parts_day60)     # Simple percentage agreement
 agree(shoulder_inter_parts_day60,1)     # Simple percentage agreement
 
 # Intra-observer
 
 shoulder_intra_parts_130  <- read.csv("shoulder_intra_parts_130.csv")
-shoulder_intra_parts_130
+# shoulder_intra_parts_130
 agree(shoulder_intra_parts_130)     # Simple percentage agreement
 agree(shoulder_intra_parts_130,1)     # Simple percentage agreement
 
@@ -308,3 +314,4 @@ icnsp <- boot(olecranon_specaovsnonspecao,ckappa.boot,1000)
 quantile(icnsp$t,c(0.025,0.975)) # two-sided bootstrapped confidence interval of kappa
 boot.ci(icnsp,type="bca") # adjusted bootstrap percentile (BCa) confidence interval (better)
 
+ -->
